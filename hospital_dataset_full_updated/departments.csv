@@ -1,0 +1,16 @@
+DepartmentID,DepartmentName,Floor
+DPT001,Cardiology Department,3
+DPT002,Neurology Department,6
+DPT003,Orthopedics Department,3
+DPT004,Pediatrics Department,9
+DPT005,Dermatology Department,10
+DPT006,Oncology Department,9
+DPT007,Radiology Department,5
+DPT008,Psychiatry Department,6
+DPT009,Emergency Medicine Department,5
+DPT010,General Surgery Department,4
+DPT011,Internal Medicine Department,1
+DPT012,Anesthesiology Department,3
+DPT013,Obstetrics & Gynecology Department,8
+DPT014,Urology Department,6
+DPT015,ENT Department,8
